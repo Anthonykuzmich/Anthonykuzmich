@@ -14,6 +14,6 @@ Currently in addition to my full time work 🧑‍💻 at iTechArt I am working 
 - Wrote Terraform templates for deploying ElasticSearch on existing Kubernetes cluster
 - Configured ElasticSearch to improve search functionality for the specifics of the used data
 ---
-### My hobbies:
+### Hobbies:
 - Traveling 🌏 and learning new languages 🦸
 - Basketball 🏀🏀🏀
