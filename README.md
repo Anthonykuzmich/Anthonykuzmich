@@ -6,8 +6,7 @@ I enjoy programming 😍 and at the same time have strong communicational skills
 - English C1 
 - German A2-B1.
 
-Currently in addition to my full time work 🧑‍💻 at iTechArt I am working as FullStack engineer at Start Up - aggregator of marketplaces. 
-
+My achievements on the latest project:
 #### My achievements 🔥:
 - Implemented ETL/ELT pipelines for data acquisition using RQ workers
 - Developed complex rules to parse web pages with Scrappy
